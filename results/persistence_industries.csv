@@ -1,0 +1,257 @@
+naics,title,companies_2002,cr4_2002,title_2022,companies_2022,shipments_2022_k,cr4_2022,change
+311111,Dog & cat food mfg,176,64.20,Dog and cat food manufacturing,358,27453629,56.60,-7.60
+311119,Other animal food mfg,1043,26.10,Other animal food manufacturing,890,47276859,23.30,-2.80
+311211,Flour milling,211,53.60,Flour milling,238,18525930,45.40,-8.20
+311212,Rice milling,62,53.60,Rice milling,67,4554571,47.20,-6.40
+311213,Malt mfg,16,91.40,Malt manufacturing,37,995539,84.20,-7.20
+311221,Wet corn milling,35,68.70,Wet corn milling and starch manufacturing,40,17480531,79.90,11.20
+311225,Fats & oils refining & blending,77,48.20,Fats and oils refining and blending,91,17847749,54.10,5.90
+311230,Breakfast cereal mfg,45,78.40,Breakfast cereal manufacturing,77,10975643,86.60,8.20
+311313,Beet sugar mfg,12,79.50,Beet sugar manufacturing,12,4359901,78.60,-0.90
+311340,Nonchocolate confectionery mfg,476,44.90,Nonchocolate confectionery manufacturing,534,11509278,33.00,-11.90
+311411,"Frozen fruit, juice, & vegetable mfg",153,39.40,"Frozen fruit, juice, and vegetable manufacturing",140,18310280,58.40,19.00
+311412,Frozen specialty food mfg,361,41.20,Frozen specialty food manufacturing,513,25527399,34.80,-6.40
+311421,Fruit & vegetable canning,632,23.70,Fruit and vegetable canning,709,27392979,19.80,-3.90
+311422,Specialty canning,115,71.00,Specialty canning,107,9843597,68.70,-2.30
+311423,Dried & dehydrated food mfg,151,42.30,Dried and dehydrated food manufacturing,239,8641507,33.30,-9.00
+311511,Fluid milk mfg,315,42.60,Fluid milk manufacturing,241,50571309,40.40,-2.20
+311512,Creamery butter mfg,33,57.50,Creamery butter manufacturing,45,8879001,78.00,20.50
+311513,Cheese mfg,366,34.60,Cheese manufacturing,397,66303118,28.50,-6.10
+311514,"Dry, condensed, & evaporated dairy product mfg",158,47.40,"Dry, condensed, and evaporated dairy product manufacturing",129,21105376,35.30,-12.10
+311520,Ice cream & frozen dessert mfg,364,48.00,Ice cream and frozen dessert manufacturing,421,10386406,47.50,-0.50
+311611,Animal (except poultry) slaughtering,1777,58.70,Animal (except poultry) slaughtering,1429,124669571,66.00,7.30
+311612,Meat processed from carcasses,1194,24.20,Meat processed from carcasses,1395,81126161,33.60,9.40
+311613,Rendering & meat byproduct processing,122,34.10,Rendering and meat byproduct processing,78,7937464,67.50,33.40
+311615,Poultry processing,310,46.30,Poultry processing,302,89913007,39.20,-7.10
+311811,Retail bakeries,7079,3.70,Retail bakeries,7156,6118018,2.60,-1.10
+311812,Commercial bakeries,2259,46.10,Commercial bakeries,2609,38164287,34.50,-11.60
+311813,"Frozen cakes, pies, & other pastries mfg",227,30.20,"Frozen cakes, pies, and other pastries manufacturing",214,8165134,25.60,-4.60
+311821,Cookie & cracker mfg,296,66.60,Cookie and cracker manufacturing,386,10292170,38.00,-28.60
+311830,Tortilla mfg,272,56.10,Tortilla manufacturing,402,5925849,62.50,6.40
+311911,Roasted nuts & peanut butter mfg,145,33.50,Roasted nuts and peanut butter manufacturing,239,14422347,29.60,-3.90
+311919,Other snack food mfg,267,74.80,Other snack food manufacturing,400,28136385,75.50,0.70
+311920,Coffee & tea mfg,258,51.20,Coffee and tea manufacturing,1030,14715412,41.60,-9.60
+311941,"Mayonnaise, dressing, & other prepared sauce mfg",261,38.50,"Mayonnaise, dressing, and other prepared sauce manufacturing",361,14719378,34.00,-4.50
+311942,Spice & extract mfg,276,28.70,Spice and extract manufacturing,447,15110855,30.00,1.30
+311991,Perishable prepared food mfg,567,23.60,Perishable prepared food manufacturing,922,27129946,31.40,7.80
+311999,All other miscellaneous food mfg,1561,24.50,All other miscellaneous food manufacturing,741,16524968,26.90,2.40
+312111,Soft drink mfg,294,51.90,Soft drink manufacturing,389,41676568,48.20,-3.70
+312112,Bottled water mfg,201,62.60,Bottled water manufacturing,210,8692090,78.00,15.40
+312113,Ice mfg,425,42.90,Ice manufacturing,268,1178393,60.60,17.70
+312120,Breweries,349,90.80,Breweries,4857,29407838,63.60,-27.20
+312130,Wineries,1127,46.50,Wineries,4373,24303716,37.80,-8.70
+312140,Distilleries,67,70.50,Distilleries,1230,18833463,45.30,-25.20
+313210,Broadwoven fabric mills,643,19.50,Broadwoven fabric mills,228,3625631,34.00,14.50
+313230,Nonwoven fabric mills,218,50.80,Nonwoven fabric mills,182,7697185,26.50,-24.30
+313320,Fabric coating mills,207,19.60,Fabric coating mills,138,2884306,24.70,5.10
+314110,Carpet & rug mills,342,65.00,Carpet and rug mills,184,9343351,56.70,-8.30
+316110,Leather & hide tanning & finishing,246,45.80,Leather and hide tanning and finishing,156,1148391,60.10,14.30
+321113,Sawmills,3462,17.50,Sawmills,2439,41310536,22.20,4.70
+321114,Wood preservation,414,26.00,Wood preservation,250,10472035,54.90,28.90
+321211,Hardwood veneer & plywood mfg,304,33.10,Hardwood veneer and plywood manufacturing,174,3523885,39.80,6.70
+321212,Softwood veneer & plywood mfg,85,57.30,Softwood veneer and plywood manufacturing,52,6611995,53.30,-4.00
+321219,Reconstituted wood product mfg,180,35.20,Reconstituted wood product manufacturing,109,11223280,51.50,16.30
+321911,Wood window & door mfg,1328,34.90,Wood window and door manufacturing,936,19020657,48.80,13.90
+321912,"Cut stock, resawing lumber, & planing",1129,16.80,"Cut stock, resawing lumber, and planing",608,8049530,37.70,20.90
+321918,Other millwork (including flooring),2020,17.70,Other millwork (including flooring),1459,10191900,22.00,4.30
+321920,Wood container & pallet mfg,2792,6.90,Wood container and pallet manufacturing,2516,18265295,16.20,9.30
+321991,Manufactured home (mobile home) mfg,241,44.60,Manufactured home (mobile home) manufacturing,160,7064498,66.00,21.40
+321992,Prefabricated wood building mfg,671,22.00,Prefabricated wood building manufacturing,655,8085416,38.20,16.20
+322110,Pulp mills,21,61.10,Pulp mills,18,8716945,78.20,17.10
+322130,Paperboard mills,80,48.50,Paperboard mills,63,41223734,67.50,19.00
+322211,Corrugated & solid fiber box mfg,959,36.80,Corrugated and solid fiber box manufacturing,603,57188311,52.10,15.30
+322212,Folding paperboard box mfg,351,35.10,Folding paperboard box manufacturing,344,18693919,43.00,7.90
+322291,Sanitary paper product mfg,109,56.30,Sanitary paper product manufacturing,100,14113056,47.80,-8.50
+322299,All other converted paper product mfg,510,21.70,All other converted paper product manufacturing,318,5593892,17.80,-3.90
+323113,Commercial screen printing,4385,7.50,Commercial screen printing,5708,12483532,16.40,8.90
+323117,Books printing,560,38.20,Books printing,852,4958811,38.70,0.50
+332321,Metal window & door mfg,1158,14.40,Metal window and door manufacturing,876,19486133,24.80,10.40
+332322,Sheet metal work mfg,4139,6.10,Sheet metal work manufacturing,4434,39514794,7.30,1.20
+332323,Ornamental & architectural metal work mfg,2290,14.90,Ornamental and architectural metal work manufacturing,2764,10787884,11.20,-3.70
+332410,Power boiler & heat exchanger mfg,293,24.20,Power boiler and heat exchanger manufacturing,185,7103848,33.90,9.70
+332420,Metal tank (heavy gauge) mfg,593,17.60,Metal tank (heavy gauge) manufacturing,611,10337800,21.40,3.80
+332431,Metal can mfg,82,70.80,Metal can manufacturing,62,21648002,62.50,-8.30
+332439,Other metal container mfg,372,29.90,Other metal container manufacturing,218,4649751,37.00,7.10
+332510,Hardware mfg,807,19.30,Hardware manufacturing,534,10740727,34.30,15.00
+332618,Other fabricated wire product mfg,1573,14.80,Other fabricated wire product manufacturing,589,6057660,15.20,0.40
+332710,Machine shops,22180,2.20,Machine shops,16876,44731288,2.00,-0.20
+332721,Precision turned product mfg,2823,4.10,Precision turned product manufacturing,3951,23500308,4.40,0.30
+332722,"Bolt, nut, screw, rivet, & washer mfg",836,23.70,"Bolt, nut, screw, rivet, and washer manufacturing",669,12865619,18.00,-5.70
+332811,Metal heat treating,659,31.70,Metal heat treating,524,5786168,41.80,10.10
+332812,Metal coating/engraving (exc jewelry/silverware) & allied service,2252,19.50,"Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers",2317,17981609,32.90,13.40
+332813,"Electroplating, plating, polishing, anodizing, & coloring",2930,7.40,"Electroplating, plating, polishing, anodizing, and coloring",1899,7919251,10.90,3.50
+332911,Industrial valve mfg,395,25.40,Industrial valve manufacturing,395,14281165,22.60,-2.80
+332912,Fluid power valve & hose fitting mfg,335,43.70,Fluid power valve and hose fitting manufacturing,271,10908466,38.40,-5.30
+332913,Plumbing fixture fitting & trim mfg,135,58.70,Plumbing fixture fitting and trim manufacturing,88,6603711,63.90,5.20
+332919,Other metal valve & pipe fitting mfg,238,19.80,Other metal valve and pipe fitting manufacturing,175,4860866,21.10,1.30
+332991,Ball & roller bearing mfg,125,51.80,Ball and roller bearing manufacturing,107,5808676,49.70,-2.10
+332992,Small arms ammunition mfg,109,83.00,Small arms ammunition manufacturing,151,5825535,75.40,-7.60
+332993,Ammunition (except small arms) mfg,49,52.90,Ammunition (except small arms) manufacturing,37,4174028,87.10,34.20
+332996,Fabricated pipe & pipe fitting mfg,733,23.20,Fabricated pipe and pipe fitting manufacturing,655,8017928,14.70,-8.50
+333111,Farm machinery & equipment mfg,1138,57.60,Farm machinery and equipment manufacturing,1033,42826509,61.60,4.00
+333112,Lawn & garden tractor & home lawn & garden equipment mfg,129,61.60,Lawn and garden tractor and home lawn and garden equipment manufacturing,94,9638246,50.10,-11.50
+333120,Construction machinery mfg,719,46.60,Construction machinery manufacturing,561,41175635,54.50,7.90
+333131,Mining machinery & equipment mfg,246,40.60,Mining machinery and equipment manufacturing,223,4385006,25.10,-15.50
+333132,Oil & gas field machinery & equipment mfg,467,25.30,Oil and gas field machinery and equipment manufacturing,496,11890226,31.80,6.50
+333414,Heating equipment (except warm air furnaces) mfg,391,23.90,Heating equipment (except warm air furnaces) manufacturing,321,6859109,25.90,2.00
+333511,Industrial mold mfg,2399,7.30,Industrial mold manufacturing,1095,6263593,9.10,1.80
+333514,"Special die & tool, die set, jig, & fixture mfg",3660,7.00,"Special die and tool, die set, jig, and fixture manufacturing",2074,9827827,16.60,9.60
+333515,Cutting tool & machine tool accessory mfg,1805,20.10,Cutting tool and machine tool accessory manufacturing,1050,5548956,17.60,-2.50
+333611,Turbine & turbine generator set units mfg,93,88.40,Turbine and turbine generator set units manufacturing,87,11976632,59.20,-29.20
+333612,"Speed changer, industrial high-speed drive, & gear mfg",210,27.20,"Speed changer, industrial high-speed drive, and gear manufacturing",167,4135801,32.00,4.80
+333613,Mechanical power transmission equipment mfg,203,24.70,Mechanical power transmission equipment manufacturing,176,5485984,27.30,2.60
+333618,Other engine equipment mfg,267,51.00,Other engine equipment manufacturing,246,28069298,62.70,11.70
+333912,Air & gas compressor mfg,276,33.00,Air and gas compressor manufacturing,238,8850292,31.20,-1.80
+333921,Elevator & moving stairway mfg,167,57.60,Elevator and moving stairway manufacturing,168,4317253,55.10,-2.50
+333922,Conveyor & conveying equipment mfg,794,23.80,Conveyor and conveying equipment manufacturing,734,14176832,10.90,-12.90
+333923,"Overhead traveling crane, hoist, & monorail system mfg",275,49.30,"Overhead traveling crane, hoist, and monorail system manufacturing",276,9091040,55.00,5.70
+333924,"Industrial truck, tractor, trailer, & stacker machinery mfg",402,38.00,"Industrial truck, trailer, and stacker machinery manufacturing",277,13184085,45.20,7.20
+333991,Power-driven handtool mfg,109,56.30,Power-driven handtool manufacturing,102,2578482,68.20,11.90
+333992,Welding & soldering equipment mfg,203,54.70,Welding and soldering equipment manufacturing,456,6490240,62.40,7.70
+333993,Packaging machinery mfg,625,22.80,Packaging machinery manufacturing,490,10087435,24.40,1.60
+333995,Fluid power cylinder & actuator mfg,258,47.40,Fluid power cylinder and actuator manufacturing,236,7231497,36.00,-11.40
+333996,Fluid power pump & motor mfg,141,68.50,Fluid power pump and motor manufacturing,120,5330371,56.10,-12.40
+334111,Electronic computer mfg,465,75.50,Electronic computer manufacturing,148,11777793,60.50,-15.00
+334112,Computer storage device mfg,157,65.60,Computer storage device manufacturing,38,4720727,83.60,18.00
+334210,Telephone apparatus mfg,456,55.60,Telephone apparatus manufacturing,155,4297775,61.90,6.30
+334290,Other communications equipment mfg,470,43.80,Other communications equipment manufacturing,310,4669922,22.50,-21.30
+334310,Audio & video equipment mfg,544,43.20,Audio and video equipment manufacturing,506,5092585,43.60,0.40
+334412,Bare printed circuit board mfg,891,20.10,Bare printed circuit board manufacturing,333,4371766,28.70,8.60
+334413,Semiconductor & related device mfg,904,56.50,Semiconductor and related device manufacturing,675,62435106,48.00,-8.50
+334417,Electronic connector mfg,280,39.80,Electronic connector manufacturing,168,7053755,39.60,-0.20
+334418,Printed circuit assembly (electronic assembly) mfg,790,35.60,Printed circuit assembly (electronic assembly) manufacturing,820,24470559,43.60,8.00
+334510,Electromedical & electrotherapeutic apparatus mfg,485,38.70,Electromedical and electrotherapeutic apparatus manufacturing,822,39564761,28.60,-10.10
+334511,"Search, detection, navigation, & guidance instrument mfg",504,58.90,"Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing",404,53454072,57.90,-1.00
+334512,Automatic environmental control mfg,312,48.80,"Automatic environmental control manufacturing for residential, commercial, and appliance use",207,3007474,40.80,-8.00
+334513,Industrial process control instrument mfg,909,24.80,"Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables",841,14234763,27.90,3.10
+334514,Totalizing fluid meter & counting device mfg,220,53.70,Totalizing fluid meter and counting device manufacturing,163,5293593,32.30,-21.40
+334516,Analytical laboratory instrument mfg,526,37.20,Analytical laboratory instrument manufacturing,629,19354336,25.20,-12.00
+334517,Irradiation apparatus mfg,154,53.50,Irradiation apparatus manufacturing,111,9177835,67.50,14.00
+335311,"Power, distribution, & specialty transformer mfg",259,38.60,"Power, distribution, and specialty transformer manufacturing",217,9556000,36.50,-2.10
+335312,Motor & generator mfg,478,26.80,Motor and generator manufacturing,336,13790392,43.70,16.90
+335313,Switchgear & switchboard apparatus mfg,450,50.80,Switchgear and switchboard apparatus manufacturing,372,15009387,42.90,-7.90
+335314,Relay & industrial control mfg,1058,39.20,Relay and industrial control manufacturing,661,10293473,28.00,-11.20
+335921,Fiber optic cable mfg,91,61.80,Fiber optic cable manufacturing,99,3762544,64.60,2.80
+335929,Other communication & energy wire mfg,259,27.90,Other communication and energy wire manufacturing,169,10004072,48.30,20.40
+335931,Current-carrying wiring device mfg,396,24.10,Current-carrying wiring device manufacturing,359,8376690,27.50,3.40
+335932,Noncurrent-carrying wiring device mfg,132,32.90,Noncurrent-carrying wiring device manufacturing,111,9628333,42.80,9.90
+335991,Carbon & graphite product mfg,107,41.30,Carbon and graphite product manufacturing,150,3995351,41.60,0.30
+335999,All other miscellaneous electrical equipment & component mfg,943,15.90,All other miscellaneous electrical equipment and component manufacturing,776,17381153,27.30,11.40
+324110,Petroleum refineries,88,41.20,Petroleum refineries,50,825220146,52.20,11.00
+324121,Asphalt paving mixture & block mfg,511,24.90,Asphalt paving mixture and block manufacturing,459,18168879,22.20,-2.70
+324122,Asphalt shingle & coating materials mfg,123,60.00,Asphalt shingle and coating materials manufacturing,72,14953461,66.90,6.90
+324191,Petroleum lubricating oil & grease mfg,356,40.60,Petroleum lubricating oil and grease manufacturing,198,19619490,39.60,-1.00
+324199,All other petroleum & coal products mfg,66,45.50,All other petroleum and coal products manufacturing,37,5386499,62.50,17.00
+325110,Petrochemical mfg,43,84.70,Petrochemical manufacturing,38,77557794,74.30,-10.40
+325120,Industrial gas mfg,103,63.80,Industrial gas manufacturing,93,16411762,66.80,3.00
+325193,Ethyl alcohol mfg,64,46.10,Ethyl alcohol manufacturing,118,50039523,35.50,-10.60
+325199,All other basic organic chemical mfg,481,22.00,All other basic organic chemical manufacturing,663,100084835,24.60,2.60
+325211,Plastics material & resin mfg,445,32.40,Plastics material and resin manufacturing,1071,114389117,35.00,2.60
+325212,Synthetic rubber mfg,133,43.00,Synthetic rubber manufacturing,141,8485946,34.30,-8.70
+325311,Nitrogenous fertilizer mfg,116,53.90,Nitrogenous fertilizer manufacturing,122,15000424,77.50,23.60
+325312,Phosphatic fertilizer mfg,33,77.80,Phosphatic fertilizer manufacturing,60,8927961,86.40,8.60
+325320,Pesticide & other agricultural chemical mfg,206,64.50,Pesticide and other agricultural chemical manufacturing,209,18623718,59.60,-4.90
+325411,Medicinal & botanical mfg,343,64.20,Medicinal and botanical manufacturing,650,13906044,24.70,-39.50
+325412,Pharmaceutical preparation mfg,731,36.00,Pharmaceutical preparation manufacturing,1131,149880541,39.80,3.80
+325413,In-vitro diagnostic substance mfg,197,55.50,In-vitro diagnostic substance manufacturing,207,23121300,48.80,-6.70
+325414,Biological product (except diagnostic) mfg,233,42.00,Biological product (except diagnostic) manufacturing,304,47322287,30.70,-11.30
+325510,Paint & coating mfg,1149,37.30,Paint and coating manufacturing,1082,33176861,45.50,8.20
+325520,Adhesive mfg,466,24.20,Adhesive manufacturing,358,20053143,30.70,6.50
+325611,Soap & other detergent mfg,699,60.60,Soap and other detergent manufacturing,742,27159134,59.60,-1.00
+325612,Polish & other sanitation good mfg,561,59.50,Polish and other sanitation good manufacturing,421,8430277,24.70,-34.80
+325613,Surface active agent mfg,142,53.40,Surface active agent manufacturing,108,10241515,62.50,9.10
+325620,Toilet preparation mfg,765,47.70,Toilet preparation manufacturing,1131,36549121,46.50,-1.20
+325910,Printing ink mfg,229,54.00,Printing ink manufacturing,182,4561134,47.20,-6.80
+325920,Explosives mfg,57,54.20,Explosives manufacturing,48,3162578,53.30,-0.90
+325991,Custom compounding of purchased resins,651,23.50,Custom compounding of purchased resins,318,13691685,22.30,-1.20
+325992,"Photographic film, paper, plate, & chemical mfg",382,78.90,"Photographic film, paper, plate, chemical, and copy toner manufacturing",115,4896895,63.90,-15.00
+325998,All other miscellaneous chemical product & preparation mfg,1016,20.80,All other miscellaneous chemical product and preparation manufacturing,1112,28435524,15.80,-5.00
+326111,Plastics bag mfg,375,23.10,Plastics bag and pouch manufacturing,276,16370399,34.90,11.80
+326112,Plastics packaging film & sheet (including laminated) mfg,212,53.80,Plastics packaging film and sheet (including laminated) manufacturing,316,17084328,29.00,-24.80
+326113,Unlaminated plastics film & sheet (except packaging) mfg,744,20.60,Unlaminated plastics film and sheet (except packaging) manufacturing,320,17032497,26.60,6.00
+326121,Unlaminated plastics profile shape mfg,555,34.10,Unlaminated plastics profile shape manufacturing,265,9018573,41.10,7.00
+326122,Plastics pipe & pipe fitting mfg,310,23.60,Plastics pipe and pipe fitting manufacturing,269,18162585,33.10,9.50
+326130,"Laminated plastics plate, sheet, (except packaging), & shape mfg",280,40.10,"Laminated plastics plate, sheet (except packaging), and shape manufacturing",190,4657791,28.10,-12.00
+326140,Polystyrene foam product mfg,394,42.90,Polystyrene foam product manufacturing,290,11778963,41.60,-1.30
+326150,Urethane & other foam product (except polystyrene) mfg,424,35.60,Urethane and other foam product (except polystyrene) manufacturing,472,13209893,27.90,-7.70
+326160,Plastics bottle mfg,184,42.30,Plastics bottle manufacturing,200,17141130,47.40,5.10
+326191,Plastics plumbing fixture mfg,505,37.40,Plastics plumbing fixture manufacturing,249,6051009,37.40,0.00
+326211,Tire mfg (except retreading),112,77.20,Tire manufacturing (except retreading),72,21250856,64.00,-13.20
+326212,Tire retreading,440,34.10,Tire retreading,206,1622924,27.40,-6.70
+326220,Rubber & plastics hoses & belting mfg,187,44.30,Rubber and plastics hoses and belting manufacturing,187,7077342,42.30,-2.00
+327211,Flat glass mfg,13,74.00,Flat glass manufacturing,61,5329560,69.40,-4.60
+327212,Other pressed & blown glass & glassware mfg,479,34.90,Other pressed and blown glass and glassware manufacturing,349,3611514,48.60,13.70
+327213,Glass container mfg,22,88.30,Glass container manufacturing,22,6659671,88.40,0.10
+327215,Glass product mfg made of purchased glass,1468,22.70,Glass product manufacturing made of purchased glass,942,16285718,35.70,13.00
+327310,Cement mfg,131,38.70,Cement manufacturing,95,11712435,51.70,13.00
+327320,Ready-mix concrete mfg,2614,11.10,Ready-mix concrete manufacturing,1994,42951826,15.00,3.90
+327331,Concrete block & brick mfg,635,22.60,Concrete block and brick manufacturing,360,5823568,35.50,12.90
+327332,Concrete pipe mfg,214,40.20,Concrete pipe manufacturing,69,1723849,47.60,7.40
+327390,Other concrete product mfg,1996,15.40,Other concrete product manufacturing,1488,18080128,16.30,0.90
+327410,Lime mfg,41,66.30,Lime manufacturing,29,2762276,82.60,16.30
+327420,Gypsum product mfg,219,71.00,Gypsum product manufacturing,95,9189956,84.10,13.10
+327910,Abrasive product mfg,312,53.30,Abrasive product manufacturing,242,3788318,50.50,-2.80
+327991,Cut stone & stone product mfg,1521,10.30,Cut stone and stone product manufacturing,2203,7964526,11.50,1.20
+327992,Ground or treated mineral & earth mfg,185,44.50,Ground or treated mineral and earth manufacturing,148,6446945,36.10,-8.40
+327993,Mineral wool mfg,197,59.50,Mineral wool manufacturing,145,7917903,61.40,1.90
+327999,All other miscellaneous nonmetallic mineral product mfg,357,29.70,All other miscellaneous nonmetallic mineral product manufacturing,269,5207425,48.80,19.10
+331210,Iron & steel pipe & tube mfg from purchased steel,133,25.90,Iron and steel pipe and tube manufacturing from purchased steel,162,21368091,30.30,4.40
+331221,Rolled steel shape mfg,121,34.40,Rolled steel shape manufacturing,158,16110197,38.70,4.30
+331222,Steel wire drawing,270,29.90,Steel wire drawing,150,8519599,25.20,-4.70
+331314,Secondary smelting & alloying of aluminum,124,45.20,Secondary smelting and alloying of aluminum,63,8965804,46.90,1.70
+331315,"Aluminum sheet, plate, & foil mfg",79,70.80,"Aluminum sheet, plate, and foil manufacturing",38,22603978,69.40,-1.40
+331491,"Other nonferrous metal rolling, drawing, & extruding",288,38.70,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying",128,6601918,50.80,12.10
+331492,"Other nonferrous metal secondary smelting, refining, & alloying",213,23.80,"Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)",143,8591300,29.60,5.80
+331511,Iron foundries,531,29.20,Iron foundries,214,11890929,41.40,12.20
+331512,Steel investment foundries,130,59.20,Steel investment foundries,84,3953391,73.50,14.30
+331513,Steel foundries (except investment),229,34.70,Steel foundries (except investment),121,3668100,44.10,9.40
+331524,Aluminum foundries (except die-casting),505,25.00,Aluminum foundries (except die-casting),324,2854687,35.90,10.90
+332111,Iron & steel forging,343,20.30,Iron and steel forging,155,7205454,36.60,16.30
+332112,Nonferrous forging,64,41.60,Nonferrous forging,37,2766702,62.90,21.30
+332114,Custom roll forming,371,30.30,Custom roll forming,319,6880414,22.40,-7.90
+332117,Powder metallurgy part mfg,119,35.90,Powder metallurgy part manufacturing,119,2209252,31.60,-4.30
+332311,Prefabricated metal building & component mfg,678,27.80,Prefabricated metal building and component manufacturing,746,14480974,26.30,-1.50
+332312,Fabricated structural metal mfg,3569,8.90,Fabricated structural metal manufacturing,2955,55530085,23.90,15.00
+332313,Plate work mfg,1010,12.30,Plate work manufacturing,1980,13580011,8.70,-3.60
+337121,Upholstered household furniture mfg,1679,34.70,Upholstered household furniture manufacturing,881,14492131,39.00,4.30
+337122,Nonupholstered wood household furniture mfg,3975,23.90,Nonupholstered wood household furniture manufacturing,1786,4000422,24.90,1.00
+337211,Wood office furniture mfg,546,34.10,Wood office furniture manufacturing,316,3335761,54.30,20.20
+337212,Custom architectural woodwork & millwork mfg,1552,10.10,Custom architectural woodwork and millwork manufacturing,2227,10017333,6.70,-3.40
+337214,Office furniture (except wood) mfg,261,61.80,Office furniture (except wood) manufacturing,174,5827651,57.70,-4.10
+337215,"Showcase, partition, shelving, & locker mfg",1800,13.70,"Showcase, partition, shelving, and locker manufacturing",710,9196936,18.70,5.00
+337910,Mattress mfg,513,43.60,Mattress manufacturing,336,8776904,56.10,12.50
+337920,Blind & shade mfg,461,44.30,Blind and shade manufacturing,292,2593295,48.00,3.70
+339112,Surgical & medical instrument mfg,1212,28.70,Surgical and medical instrument manufacturing,1033,40260371,26.30,-2.40
+339114,Dental equipment & supplies mfg,849,34.70,Dental equipment and supplies manufacturing,464,5800169,45.10,10.40
+339115,Ophthalmic goods mfg,491,41.40,Ophthalmic goods manufacturing,280,6512386,59.30,17.90
+339116,Dental laboratories,6923,12.70,Dental laboratories,4669,6334094,24.10,11.40
+339920,Sporting & athletic goods mfg,2157,22.50,Sporting and athletic goods manufacturing,1562,11063895,21.30,-1.20
+339950,Sign mfg,6125,5.20,Sign manufacturing,5661,14480142,10.00,4.80
+339991,"Gasket, packing, & sealing device mfg",526,30.80,"Gasket, packing, and sealing device manufacturing",492,7219059,21.10,-9.70
+339992,Musical instrument mfg,563,36.60,Musical instrument manufacturing,571,2297391,40.00,3.40
+339993,"Fastener, button, needle, & pin mfg",180,50.50,"Fastener, button, needle, and pin manufacturing",83,870793,66.20,15.70
+339994,"Broom, brush, & mop mfg",269,27.30,"Broom, brush, and mop manufacturing",136,2760441,41.80,14.50
+339995,Burial casket mfg,148,73.20,Burial casket manufacturing,62,665461,74.90,1.70
+339999,All other miscellaneous mfg,5270,11.40,All other miscellaneous manufacturing,4799,12906888,25.00,13.60
+336120,Heavy duty truck mfg,81,69.50,Heavy duty truck manufacturing,84,33078898,76.00,6.50
+336211,Motor vehicle body mfg,760,26.30,Motor vehicle body manufacturing,781,20264702,24.60,-1.70
+336212,Truck trailer mfg,363,40.50,Truck trailer manufacturing,497,17068125,33.30,-7.20
+336213,Motor home mfg,83,57.70,Motor home manufacturing,58,7414703,82.50,24.80
+336214,Travel trailer & camper mfg,733,38.00,Travel trailer and camper manufacturing,575,27565410,71.40,33.40
+336330,Motor vehicle steering & suspension component (except spring) mfg,199,46.20,Motor vehicle steering and suspension components (except spring) manufacturing,248,16979065,34.50,-11.70
+336340,Motor vehicle brake system mfg,210,51.40,Motor vehicle brake system manufacturing,137,10217537,38.40,-13.00
+336350,Motor vehicle transmission & power train parts mfg,434,54.30,Motor vehicle transmission and power train parts manufacturing,383,47186478,39.50,-14.80
+336360,Motor vehicle seating & interior trim mfg,294,67.60,Motor vehicle seating and interior trim manufacturing,328,29884925,40.70,-26.90
+336370,Motor vehicle metal stamping,673,43.90,Motor vehicle metal stamping,556,40483468,23.50,-20.40
+336411,Aircraft mfg,184,80.70,Aircraft manufacturing,234,92756062,83.50,2.80
+336412,Aircraft engine & engine parts mfg,296,76.90,Aircraft engine and engine parts manufacturing,285,40148113,74.80,-2.10
+336413,Other aircraft part & auxiliary equipment mfg,760,53.60,Other aircraft parts and auxiliary equipment manufacturing,860,33886040,44.90,-8.70
+336414,Guided missile & space vehicle mfg,13,96.00,Guided missile and space vehicle manufacturing,18,14851952,96.70,0.70
+336415,Guided missile & space vehicle propulsion unit & parts mfg,16,90.10,Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing,16,19513529,98.40,8.30
+336419,Other guided missile & space vehicle parts & auxiliary equip mfg,51,60.30,Other guided missile and space vehicle parts and auxiliary equipment manufacturing,33,2366738,69.00,8.70
+336510,Railroad rolling stock mfg,147,55.00,Railroad rolling stock manufacturing,140,12021670,54.90,-0.10
+336611,Ship building & repairing,586,69.20,Ship building and repairing,437,30122986,68.50,-0.70
+336991,"Motorcycle, bicycle, & parts mfg",348,71.70,"Motorcycle, bicycle, and parts manufacturing",408,3799513,65.30,-6.40
+336992,"Military armored vehicle, tank, & tank component mfg",31,88.30,"Military armored vehicle, tank, and tank component manufacturing",38,6884222,85.10,-3.20
+336999,All other transportation equipment mfg,424,58.60,All other transportation equipment manufacturing,409,9763791,61.90,3.30
+337110,Wood kitchen cabinet & counter top mfg,9452,29.20,Wood kitchen cabinet and countertop manufacturing,6287,21029313,29.30,0.10

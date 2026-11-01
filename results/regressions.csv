@@ -1,0 +1,53 @@
+outcome,spec,window,b,se,p,ci_lo,ci_hi,n,clusters,r2
+Price in hours of labor,Unweighted,2002-2016,-0.0896,0.0523,0.0871,-0.1922,0.0130,471,86.0000,0.0130
+Price in hours of labor,Value-added weighted,2002-2016,-0.2593,0.1311,0.0480,-0.5163,-0.0023,471,86.0000,0.0495
+Price in hours of labor,Subsector fixed effects,2002-2016,-0.1104,0.0464,0.0174,-0.2014,-0.0194,471,86.0000,0.3026
+Price in hours of labor,Without computers and electronics (334),2002-2016,-0.0438,0.0370,0.2375,-0.1163,0.0288,441,80.0000,0.0057
+Price in hours of labor,Without 334 and value-added weighted,2002-2016,-0.0897,0.0506,0.0765,-0.1890,0.0096,441,80.0000,0.0229
+Price in hours of labor,Winsorized 1%/99%,2002-2016,-0.0691,0.0396,0.0812,-0.1468,0.0086,471,86.0000,0.0108
+Price in hours of labor,"Without refining and petrochemicals (324110, 325110)",2002-2016,-0.0806,0.0544,0.1382,-0.1872,0.0260,469,86.0000,0.0109
+Price in hours of labor,CR8 instead of CR4,2002-2016,-0.0717,0.0484,0.1389,-0.1666,0.0233,470,86.0000,0.0097
+Price in hours of labor,HHI per 1000 instead of CR4,2002-2016,-0.4337,0.2487,0.0812,-0.9210,0.0537,443,86.0000,0.0276
+Price in hours of labor,Median regression,2002-2016,0.0002,0.0309,0.9940,-0.0606,0.0610,471,,0.0000
+Price in hours of labor,Log average company size,2002-2016,-0.0797,0.0815,0.3281,-0.2395,0.0801,471,86.0000,0.0041
+Price in hours of labor,Log average company size with subsector FE,2002-2016,-0.2103,0.0940,0.0253,-0.3946,-0.0260,471,86.0000,0.3047
+Price in hours of labor,2007 CR4 with 2007-2016 growth,2007-2016,-0.1512,0.0713,0.0340,-0.2910,-0.0114,466,86.0000,0.0219
+Real output,Unweighted,2002-2016,-0.0521,0.1410,0.7117,-0.3284,0.2242,471,86.0000,0.0005
+Real output,Value-added weighted,2002-2016,0.1764,0.0935,0.0592,-0.0068,0.3597,471,86.0000,0.0136
+Real output,Subsector fixed effects,2002-2016,-0.2838,0.1791,0.1129,-0.6348,0.0671,471,86.0000,0.4212
+Real output,Without computers and electronics (334),2002-2016,-0.0479,0.1452,0.7413,-0.3326,0.2367,441,80.0000,0.0004
+Real output,Without 334 and value-added weighted,2002-2016,0.1405,0.0940,0.1349,-0.0437,0.3247,441,80.0000,0.0095
+Real output,Winsorized 1%/99%,2002-2016,0.0684,0.0834,0.4120,-0.0950,0.2317,471,86.0000,0.0013
+Real output,"Without refining and petrochemicals (324110, 325110)",2002-2016,-0.0732,0.1395,0.6001,-0.3466,0.2003,469,86.0000,0.0009
+Real output,CR8 instead of CR4,2002-2016,-0.0412,0.1245,0.7408,-0.2851,0.2028,470,86.0000,0.0003
+Real output,HHI per 1000 instead of CR4,2002-2016,-0.7564,0.7784,0.3312,-2.2820,0.7692,443,86.0000,0.0086
+Real output,Median regression,2002-2016,0.0132,0.0821,0.8719,-0.1480,0.1745,471,,0.0001
+Real output,Log average company size,2002-2016,0.5899,0.1374,0.0000,0.3207,0.8591,471,86.0000,0.0233
+Real output,Log average company size with subsector FE,2002-2016,-0.3841,0.3008,0.2015,-0.9736,0.2054,471,86.0000,0.4164
+Real output,2007 CR4 with 2007-2016 growth,2007-2016,-0.1960,0.2292,0.3925,-0.6452,0.2533,466,86.0000,0.0059
+Total factor productivity,Unweighted,2002-2016,0.1207,0.0537,0.0247,0.0154,0.2261,471,86.0000,0.0195
+Total factor productivity,Value-added weighted,2002-2016,0.1687,0.0866,0.0514,-0.0010,0.3384,471,86.0000,0.0381
+Total factor productivity,Subsector fixed effects,2002-2016,0.0927,0.0640,0.1475,-0.0327,0.2181,471,86.0000,0.1985
+Total factor productivity,Without computers and electronics (334),2002-2016,0.0863,0.0496,0.0816,-0.0108,0.1834,441,80.0000,0.0118
+Total factor productivity,Without 334 and value-added weighted,2002-2016,0.0727,0.0484,0.1332,-0.0222,0.1676,441,80.0000,0.0120
+Total factor productivity,Winsorized 1%/99%,2002-2016,0.1251,0.0459,0.0065,0.0351,0.2151,471,86.0000,0.0240
+Total factor productivity,"Without refining and petrochemicals (324110, 325110)",2002-2016,0.1073,0.0559,0.0548,-0.0022,0.2168,469,86.0000,0.0158
+Total factor productivity,CR8 instead of CR4,2002-2016,0.1156,0.0477,0.0153,0.0222,0.2091,470,86.0000,0.0207
+Total factor productivity,HHI per 1000 instead of CR4,2002-2016,0.2394,0.2504,0.3390,-0.2514,0.7302,443,86.0000,0.0074
+Total factor productivity,Median regression,2002-2016,0.1014,0.0328,0.0021,0.0369,0.1658,471,,0.0128
+Total factor productivity,Log average company size,2002-2016,0.1469,0.0642,0.0221,0.0211,0.2727,471,86.0000,0.0115
+Total factor productivity,Log average company size with subsector FE,2002-2016,0.0678,0.1130,0.5486,-0.1537,0.2893,471,86.0000,0.1907
+Total factor productivity,2007 CR4 with 2007-2016 growth,2007-2016,0.1403,0.0548,0.0105,0.0329,0.2478,466,86.0000,0.0165
+Price-cost margin change (points),Unweighted,2002-2016,-0.0619,0.2266,0.7848,-0.5060,0.3822,471,86.0000,0.0002
+Price-cost margin change (points),Value-added weighted,2002-2016,-0.6487,0.2498,0.0094,-1.1382,-0.1592,471,86.0000,0.0377
+Price-cost margin change (points),Subsector fixed effects,2002-2016,-0.0166,0.2255,0.9411,-0.4585,0.4252,471,86.0000,0.0905
+Price-cost margin change (points),Without computers and electronics (334),2002-2016,-0.0218,0.2310,0.9249,-0.4746,0.4310,441,80.0000,0.0000
+Price-cost margin change (points),Without 334 and value-added weighted,2002-2016,-0.4908,0.2247,0.0290,-0.9313,-0.0503,441,80.0000,0.0281
+Price-cost margin change (points),Winsorized 1%/99%,2002-2016,-0.1142,0.1920,0.5519,-0.4906,0.2622,471,86.0000,0.0009
+Price-cost margin change (points),"Without refining and petrochemicals (324110, 325110)",2002-2016,-0.1171,0.2147,0.5857,-0.5379,0.3038,469,86.0000,0.0008
+Price-cost margin change (points),CR8 instead of CR4,2002-2016,-0.0266,0.2063,0.8976,-0.4310,0.3779,470,86.0000,0.0000
+Price-cost margin change (points),HHI per 1000 instead of CR4,2002-2016,-1.3809,0.8159,0.0905,-2.9800,0.2182,443,86.0000,0.0109
+Price-cost margin change (points),Median regression,2002-2016,-0.0607,0.2064,0.7689,-0.4663,0.3449,471,,0.0003
+Price-cost margin change (points),Log average company size,2002-2016,0.2654,0.3851,0.4908,-0.4895,1.0202,471,86.0000,0.0015
+Price-cost margin change (points),Log average company size with subsector FE,2002-2016,0.1929,0.4376,0.6594,-0.6649,1.0507,471,86.0000,0.0910
+Price-cost margin change (points),2007 CR4 with 2007-2016 growth,2007-2016,0.0760,0.1965,0.6988,-0.3092,0.4613,466,86.0000,0.0004

@@ -1,0 +1,17 @@
+naics,title,leaders,companies_2002,cr4_2002,shipments_2002_bn,hours_price_change_pct,g_hours_price,g_output,g_tfp,pcm_2002,d_pcm,tfp_change_pct,real_output_change_pct
+312221,Cigarette mfg,"Philip Morris (Altria), R.J. Reynolds",15,95.30,34.80,-19.34,-1.53,-1.09,0.60,85.11,-5.96,8.72,-14.11
+312120,Breweries,"Anheuser-Busch, Miller, Coors",349,90.80,17.86,1.42,0.10,1.48,1.27,53.24,5.75,19.40,23.03
+331312,Primary aluminum production,"Alcoa, Century Aluminum",26,85.30,4.75,-34.77,-3.05,-2.59,2.87,22.92,6.76,49.46,-30.42
+336411,Aircraft mfg,Boeing,184,80.70,64.31,-4.43,-0.32,2.76,1.02,29.45,2.00,15.30,47.24
+311230,Breakfast cereal mfg,"Kellogg, General Mills, Post, Quaker",45,78.40,9.10,-5.61,-0.41,-1.71,-2.35,66.78,-33.29,-28.05,-21.31
+334111,Electronic computer mfg,"Dell, Hewlett-Packard, Apple",465,75.50,47.73,-90.83,-17.06,3.40,9.47,37.03,-7.57,276.49,60.92
+336111,Automobile mfg,"General Motors, Ford, DaimlerChrysler, Toyota",164,75.50,88.13,-23.27,-1.89,1.95,-0.22,26.13,-10.32,-3.01,31.37
+334413,Semiconductor & related device mfg,"Intel, Texas Instruments, Micron",904,56.50,61.43,-73.29,-9.43,4.75,4.91,58.72,-21.64,98.97,94.47
+335221,Household cooking appliance mfg,"Whirlpool, GE, Electrolux",92,48.30,4.33,-20.09,-1.60,0.09,2.63,25.92,5.85,44.56,1.31
+331111,Iron & steel mills,"U.S. Steel, Nucor",285,44.40,47.04,-8.26,-0.62,1.72,2.12,25.53,2.24,34.50,27.19
+324110,Petroleum refineries,"ExxonMobil, ConocoPhillips, BP",88,41.20,193.53,-50.58,-5.04,7.45,0.89,12.10,3.56,13.23,183.76
+325412,Pharmaceutical preparation mfg,"Pfizer, Merck, Johnson & Johnson",731,36.00,114.67,45.61,2.68,-2.55,-4.13,64.58,-0.57,-43.90,-30.00
+321113,Sawmills,Weyerhaeuser and thousands of small mills,3462,17.50,21.39,-23.73,-1.94,-0.11,2.31,17.24,11.98,38.18,-1.49
+323110,Commercial lithographic printing,Thousands of print shops,14970,12.40,50.52,-23.98,-1.96,-2.24,0.84,33.07,-0.40,12.42,-26.96
+327320,Ready-mix concrete mfg,Thousands of local producers,2614,11.10,21.62,16.95,1.12,-1.32,-0.73,30.81,4.93,-9.69,-16.88
+332710,Machine shops,Thousands of machine shops,22180,2.20,26.27,-6.89,-0.51,0.20,-0.33,33.70,-1.81,-4.49,2.80

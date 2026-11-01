@@ -1,0 +1,15 @@
+measure,high_n,low_n,high_mean,low_mean,gap,welch_t,p,high_vaw,low_vaw
+g_hours_price,171.0000,300.0000,-0.9799,-0.5638,-0.4160,-2.2880,0.0230,-2.0462,-0.4796
+g_output,171.0000,300.0000,-1.1219,-0.9609,-0.1610,-0.2829,0.7775,0.2112,-0.3948
+g_tfp,171.0000,300.0000,0.6376,0.1788,0.4588,2.2709,0.0241,0.9343,-0.1407
+d_pcm,171.0000,300.0000,0.1259,0.6008,-0.4749,-0.4885,0.6256,-3.5782,0.3209
+wage_2002,,,16.3722,,,,,,
+wage_2016,,,23.2766,,,,,,
+industries,,,471.0000,,,,,,
+share_value_added_high_cr4,,,0.3641,,,,,,
+all_mfg_g_hours_price_vaw,,,-1.0499,,,,,,
+all_mfg_g_tfp_vaw,,,0.2506,,,,,,
+corr_g_tfp_g_hours_price,,,-0.6006,,,,,,
+tfp_gap_q5_minus_q1_per_year,,,0.6460,,,,,,
+tfp_gap_q5_minus_q1_cumulative_pct,,,9.4656,,,,,,
+tfp_gap_high_minus_low_cumulative_pct,,,6.6333,,,,,,
